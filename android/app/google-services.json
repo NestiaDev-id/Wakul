@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "555655192664",
+    "project_id": "ujicoba-firebase2",
+    "storage_bucket": "ujicoba-firebase2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555655192664:android:0fe6c8457ae62ccfa1ea2d",
+        "android_client_info": {
+          "package_name": "com.example.wakul2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzQ6PxuStrvF9Ms4ceaN0WZH5Qf9tSq-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
